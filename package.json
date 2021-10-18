@@ -1,0 +1,11 @@
+{
+  "name": "datingbackend",
+  "version": "1.0.0",
+  "description": "Backend for Love N Unity",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gedler Jean Pierre",
+  "license": "ISC"
+}
